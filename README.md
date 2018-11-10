@@ -1,2 +1,4 @@
 # homomorphic-encryption-on-healthcare-wearables
 Homomorphic encryption is a form of encryption that allows computation on ciphertexts, generating an encrypted result which, when decrypted, matches the result of the operations as if they had been performed on the plaintext. The purpose of homomorphic encryption is to allow computation on encrypted data. Cloud computing platforms can perform difficult computations on homomorphically encrypted data without ever having access to the unencrypted data. Homomorphic encryption can also be used to securely chain together different services without exposing sensitive data. Our Health records are one among the prime data that are to be set private. The project aims to provide an implementation of homomorphic encryption to Healthcare IOT Devices.
+
+Use two virtual OS in a NAT network with a common share folder to showcase this 
